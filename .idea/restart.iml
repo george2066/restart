@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/cours_1/hw_2l/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cours_1/hw_3l/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cours_1/hw_4l/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cours_1/hw_5l/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cours_1/hw_6l/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cours_1/hw_7l/src/main/java" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/cours_1/hw_2l/target" />
+      <excludeFolder url="file://$MODULE_DIR$/cours_1/hw_3l/target" />
+      <excludeFolder url="file://$MODULE_DIR$/cours_1/hw_4l/target" />
+      <excludeFolder url="file://$MODULE_DIR$/cours_1/hw_5l/target" />
+      <excludeFolder url="file://$MODULE_DIR$/cours_1/hw_6l/target" />
+      <excludeFolder url="file://$MODULE_DIR$/cours_1/hw_7l/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
