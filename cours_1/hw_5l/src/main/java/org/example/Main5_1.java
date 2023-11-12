@@ -1,6 +1,6 @@
 package org.example;
 
-public class Main5 {
+public class Main5_1 {
     public static void main(String[] args) {
         {
             byte os1 = 1;

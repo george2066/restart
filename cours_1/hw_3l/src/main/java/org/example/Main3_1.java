@@ -1,6 +1,6 @@
 package org.example;
 
-public class Main3 {
+public class Main3_1 {
     public static void main(String[] args) {
         {
             var age1 = 29;

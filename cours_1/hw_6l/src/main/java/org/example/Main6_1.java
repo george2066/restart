@@ -1,6 +1,6 @@
 package org.example;
 
-public class Main6 {
+public class Main6_1 {
     public static void main(String[] args) {
         {
             for (int i = 0; i < 11; i++) {

@@ -1,6 +1,6 @@
 package org.example;
 
-public class Main7 {
+public class Main7_1 {
     public static void main(String[] args) {
         {
             var target = 2_459_000;
