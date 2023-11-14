@@ -1,7 +1,5 @@
 package org.example;
 
-import java.util.Arrays;
-
 public class EmployeeBook {
     private final Employee[] employees = new Employee[100];
 
